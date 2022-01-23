@@ -1,0 +1,22 @@
+{
+  "name": "MAPageViewController",
+  "version": "0.1.0",
+  "summary": "A short description of MAPageViewController.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/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/MAPageViewController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "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": "magg2761@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/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/MAPageViewController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MAPageViewController/Classes/**/*"
+}

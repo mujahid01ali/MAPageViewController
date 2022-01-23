@@ -1,0 +1,6 @@
+framework module MAPageViewController {
+  umbrella header "MAPageViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}

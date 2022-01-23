@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'MAPageViewController'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of MAPageViewController.'
+  s.summary          = 'MAPageViewController is a dynamic page view controller. It is very easy to use. you just need to an array of object of the pages.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,14 +21,15 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/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/MAPageViewController'
+  s.homepage         = 'https://github.com/mujahid01ali/MAPageViewController.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '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' => 'magg2761@gmail.com' }
-  s.source           = { :git => 'https://github.com/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/MAPageViewController.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/mujahid01ali/MAPageViewController.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '11.0'
+  s.swift_version = '4.1'
 
   s.source_files = 'MAPageViewController/Classes/**/*'
   

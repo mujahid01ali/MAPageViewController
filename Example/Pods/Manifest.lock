@@ -1,0 +1,16 @@
+PODS:
+  - MAPageViewController (0.1.0)
+
+DEPENDENCIES:
+  - MAPageViewController (from `../`)
+
+EXTERNAL SOURCES:
+  MAPageViewController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MAPageViewController: 5e9a325af2663bad1fe234460a84e462bd4a71c5
+
+PODFILE CHECKSUM: 2032f4e260fa6c5b2aaddbb5e944d78d6bd135d3
+
+COCOAPODS: 1.11.2
